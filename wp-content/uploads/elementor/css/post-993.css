@@ -1,0 +1,36 @@
+.elementor-993 .elementor-element.elementor-element-8edd2a7 > .elementor-container{max-width:1600px;}.elementor-993 .elementor-element.elementor-element-792b876:not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap, .elementor-993 .elementor-element.elementor-element-792b876 > .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#000000C9;}.elementor-993 .elementor-element.elementor-element-792b876 > .elementor-element-populated{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:4% 6% 170% 3%;}.elementor-993 .elementor-element.elementor-element-792b876 > .elementor-element-populated > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-993 .elementor-element.elementor-element-a04435e .elementor-menu-toggle{margin:0 auto;border-width:0px;}.elementor-993 .elementor-element.elementor-element-a04435e .elementor-nav-menu .elementor-item{font-family:"Roboto", Sans-serif;font-size:16px;font-weight:600;}.elementor-993 .elementor-element.elementor-element-a04435e .elementor-nav-menu--main .elementor-item{color:#FFFFFF;padding-left:6px;padding-right:6px;}.elementor-993 .elementor-element.elementor-element-a04435e .elementor-nav-menu--main .elementor-item:hover,
+					.elementor-993 .elementor-element.elementor-element-a04435e .elementor-nav-menu--main .elementor-item.elementor-item-active,
+					.elementor-993 .elementor-element.elementor-element-a04435e .elementor-nav-menu--main .elementor-item.highlighted,
+					.elementor-993 .elementor-element.elementor-element-a04435e .elementor-nav-menu--main .elementor-item:focus{color:#EC9000;}.elementor-993 .elementor-element.elementor-element-a04435e .elementor-nav-menu--main:not(.e--pointer-framed) .elementor-item:before,
+					.elementor-993 .elementor-element.elementor-element-a04435e .elementor-nav-menu--main:not(.e--pointer-framed) .elementor-item:after{background-color:#EC9000;}.elementor-993 .elementor-element.elementor-element-a04435e .e--pointer-framed .elementor-item:before,
+					.elementor-993 .elementor-element.elementor-element-a04435e .e--pointer-framed .elementor-item:after{border-color:#EC9000;}.elementor-993 .elementor-element.elementor-element-a04435e > .elementor-widget-container{margin:21px 0px 26px 5px;}.elementor-993 .elementor-element.elementor-element-7efeb1e .elementor-heading-title{color:#000000;font-family:"Work Sans", Sans-serif;font-weight:600;}.elementor-993 .elementor-element.elementor-element-7efeb1e > .elementor-widget-container{margin:0% 20% 0% 0%;padding:6% 0% 0% 3%;}@media(min-width:768px){.elementor-993 .elementor-element.elementor-element-792b876{width:20.8%;}.elementor-993 .elementor-element.elementor-element-e68d557{width:79.2%;}}/* Start custom CSS for html, class: .elementor-element-ae8062a */table{
+    width: 100%;
+    border-collapse: collapse;
+}
+.table-duyet-doi-ta, th, td{
+    text-align: center;
+    word-wrap: break-word;
+    border: #87986a 1px solid;
+}
+th{
+    background-color: #718355;
+    color: #fff;
+    font-size: 15px;
+    height: 40px;
+}
+button{
+    background-color: #fff;
+    border: #1a4301 1px solid;
+    color: #1a4301;
+    padding: 5px 10px;
+    font-weight: 500;
+    text-align: center;
+}
+button:hover{
+    background-color:#1a4301 ;
+    color: #fff;
+}
+tr:hover{
+    background-color:#cfe1b9;
+    cursor:pointer;
+}/* End custom CSS */
